@@ -123,3 +123,4 @@ In addition to all the ready to run Compose samples listed above the folder [off
 
 We welcome examples that help people understand how to use Docker Compose for
 common applications. Check the [Contribution Guide](CONTRIBUTING.md) for more details. 
+# awesome-datasecurity-workspace
