@@ -1,0 +1,7 @@
+{
+    "workbench.preferredDarkColorTheme": "Visual Studio Light",
+    "npm.enableRunFromFolder": true,
+    "npm.runSilent": true,
+    "accessibility.signalOptions.debouncePositionChanges": true,
+    "accessibility.underlineLinks": true
+}
