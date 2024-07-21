@@ -8,7 +8,7 @@
 # Put your user configuration in here, so it never
 # accidentally gets checked in
 [include]
-  path = /home/officialmofabs/.gitconfig.local
+  path = /home//.gitconfig.local
 
 # Colour settings across all (colour) reporting
 [color]
