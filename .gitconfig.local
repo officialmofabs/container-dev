@@ -8,7 +8,8 @@
 # Put your user configuration in here, so it never
 # accidentally gets checked in
 [include]
-  path = /home//.gitconfig.local
+  path = /home/kali/remote-container-workspaces/.gitconfig.local
+  path = /remote-container-workspaces/.gitconfig.local
 
 # Colour settings across all (colour) reporting
 [color]

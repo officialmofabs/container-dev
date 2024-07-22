@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "1O4XoqJmAms=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\DevSupport\\development\\devdrive\\remote-container-workspaces\\aspnet-mssql\\app\\aspnetapp\\aspnetapp.csproj",
+  "expectedPackageFiles": [
+    "D:\\packages\\NuGet\\cache\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "D:\\packages\\NuGet\\cache\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "D:\\packages\\NuGet\\cache\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "D:\\packages\\NuGet\\cache\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'I:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'I:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'I:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'I:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}
