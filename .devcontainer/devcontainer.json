@@ -32,7 +32,7 @@
 				"vscode-icons-team.vscode-icons",
 				"GitHub.vscode-pull-request-github",
 				"bobmagicii.dashyeah",
-				"ms-vscode-remote.remote-wsl"
+				"ms-vscode-remote.remote-wsl",
 				"Memphis335.ajax-snippets",
 				"vscode-icons-team.vscode-icons",
 				"folke.vscode-monorepo-workspace",
@@ -111,14 +111,30 @@
 				"ms-vscode.wordcount",
 				"docsmsft.docs-visual-areas",
 				"ms-toolsai.datawrangler",
-				"microsoft-IsvExpTools.powerplatform-vscode"
-		
+				"microsoft-IsvExpTools.powerplatform-vscode",
+				"circleci.circleci"
 			]
 		}
 	},
 	"features": {
 		"ghcr.io/devcontainers/features/docker-in-docker:1": {}
-		"ghcr.io/devcontainers/features/common-utils:1": {
+"features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:1": {},
+    "ghcr.io/devcontainers/features/common-utils:1": {}
+},
+"forwardPorts": 3002
+		"ghcr.io/devcontainers/features/github-cli:1": {
+        "version": "latest"
+		"docker-in-docker": {
+			"version": "latest",
+			"moby": true,
+			"dockerDashComposeVersion": "v1"
+		    "installNode": "true",
+            "nodeVersion": "18",
+            "installPython": "true",
+            "pythonVersion": "3.10",
+            "installGit": "true",
+            "runArgs": 
 			"installZsh": "true",
 			"username": "vscode",
 			"uid": "1000",
